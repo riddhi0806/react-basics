@@ -5,11 +5,11 @@ import SpringBootServer from "../API/SpringBootServer";
 class App extends React.Component {
 	state = {
 		data: [
-			{ id: 1, name: "brinta" },
-			{ id: 2, name: "Rakuten" },
-			{ id: 3, name: "Walter" },
-			{ id: 4, name: "Kevin" },
-			{ id: 5, name: "Jesse" },
+			{ id: 1, name: "Riddhi" },
+			{ id: 2, name: "Rakshit" },
+			{ id: 3, name: "Parv" },
+			{ id: 4, name: "Nakul" },
+			{ id: 5, name: "Rashmi" },
 		],
 		products: [],
 	};
